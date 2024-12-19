@@ -1,0 +1,65 @@
+
+  { "podcast": [ 
+    {
+      "_id": 1,
+      "thumbnail": "https://i.pinimg.com/originals/0f/d2/65/0fd265ac2e929b2a7d8ed5089d96b444.jpg",
+      "name": "Podcast One",
+      "desc": "This is the first podcast description.",
+      "creator": {
+        "name": "John Doe",
+        "img": "https://i.pinimg.com/originals/0f/d2/65/0fd265ac2e929b2a7d8ed5089d96b444.jpg"
+      }
+    },
+    {
+      "_id": 2,
+      "thumbnail": "https://example.com/thumbnails/podcast2.jpg",
+      "name": "Podcast Two",
+      "desc": "This is the second podcast description.",
+      "creator": {
+        "name": "Jane Smith",
+        "img": "https://example.com/avatars/janesmith.jpg"
+      }
+    },
+    {
+      "_id": 3,
+      "thumbnail": "https://example.com/thumbnails/podcast3.jpg",
+      "name": "Podcast Three",
+      "desc": "This is the third podcast description.",
+      "creator": {
+        "name": "Alice Johnson",
+        "img": "https://example.com/avatars/alicejohnson.jpg"
+      }
+    },
+    {
+      "_id": 4,
+      "thumbnail": "https://example.com/thumbnails/podcast4.jpg",
+      "name": "Podcast Four",
+      "desc": "This is the fourth podcast description.",
+      "creator": {
+        "name": "Bob Brown",
+        "img": "https://example.com/avatars/bobbrown.jpg"
+      }
+    }
+  ]
+  }
+  
+
+
+
+
+
+ { "podcast":[{
+    "_id": "1",
+    "thumbnail": "https://i.pinimg.com/originals/0f/d2/65/0fd265ac2e929b2a7d8ed5089d96b444.jpg",
+    "name": "ABC SPORT DAILY",
+    "desc": "ABC SPORT DAILY is your daily sports conversation. We dive into the biggest story of the day and get you up to speed with everything else that’s making headlines. Is this David Warner's last 'last chance'?",
+    "__v": 0,
+    "category": "Sports",
+    "createdAt": "2023-04-24T15:37:45.418Z",
+    "creator": {
+      "_id": "1",
+      "name": "Rishav",
+      "img": "https://i.pinimg.com/originals/0f/d2/65/0fd265ac2e929b2a7d8ed5089d96b444.jpg"
+    }
+  }]
+ }
